@@ -1,4 +1,8 @@
 frist line added
 
 
+<<<<<<< Updated upstream
 new priority work added
+=======
+Second line adding in progress.
+>>>>>>> Stashed changes
